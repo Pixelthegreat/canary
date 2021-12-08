@@ -32,7 +32,7 @@ int main(int argc, char *argv[]) {
 
 	/* set container */
 	gtk_container_set_border_width(GTK_CONTAINER(win), 10);
-	gtk_window_set_title(GTK_WINDOW(win), "web");
+	gtk_window_set_title(GTK_WINDOW(win), "canary");
 
 	/* create box */
 	vbox = gtk_box_new(1, 2);
